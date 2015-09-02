@@ -1,1 +1,3 @@
-file 3
+file 3fixing bug 1234
+fixing bug 1234
+Feature2
